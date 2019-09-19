@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehiquoon.taylorham3d.com/sitemap.xml
